@@ -12,6 +12,7 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
   headers:{
     authorization:  `Bearer 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`
+    //authorization:  `Bearer ${process.env.GIT_API_ID}`
   }
 });
 

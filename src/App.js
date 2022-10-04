@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
-import SearchBar from './components/searchbar';
-import DisplayContent from "./components/display";
+import SearchBar from './components/Searchbar';
+import DisplayContent from "./components/Display";
 
 
 class App extends React.Component {

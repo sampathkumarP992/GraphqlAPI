@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import SearchResult from './searchResult';
+import SearchResult from './SearchResult';
 
 class DisplayContent extends Component {
      constructor(props) {
